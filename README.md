@@ -1,6 +1,6 @@
 # Workout Logger 
 
-Workout Logger is a web application that allows users to manage their workouts. Users can perform the CRUD operations(create, read, update and delete their workouts).
+Workout Logger is a web application that allows users to manage their workouts(pushups). Users can perform the CRUD operations(create, read, update and delete their workouts) by signing up and logging in.
 
 ## Features
 
