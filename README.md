@@ -16,7 +16,7 @@ Workout Logger is a web application that allows users to manage their workouts(p
 
 - Backend: Flask
 - Database: SQLite
-- Frontend: HTML, CSS, JavaScript
+- Frontend: HTML, CSS
 
 ## Installation
 
